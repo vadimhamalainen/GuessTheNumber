@@ -1,2 +1,2 @@
 # GuessTheNumber
-very simple game in Unity
+game in Unity
